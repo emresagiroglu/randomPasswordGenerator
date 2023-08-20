@@ -7,4 +7,4 @@ Random Password Generator is a simple and user-friendly iOS application develope
 
 # Screenshots
 
-emsp emsp ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FrZmdnOWw3b2l4ZDkwajRmdzJoYmFxbndqdWRrOXJibnNpNHk5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aXzFGa9wqJY26lx4gp/giphy.gif)
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FrZmdnOWw3b2l4ZDkwajRmdzJoYmFxbndqdWRrOXJibnNpNHk5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aXzFGa9wqJY26lx4gp/giphy.gif)
